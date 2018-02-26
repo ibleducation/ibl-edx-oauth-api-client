@@ -1,2 +1,2 @@
-include README.rst
+include README.md
 recursive-include ibl_edx_oauth_api_client
